@@ -1,8 +1,12 @@
 .Card {
   padding: 20px;
-  background: burlywood;
+  background: ivory;
   border-radius: 10px;
   box-shadow: 10px 10px 40px black;
+}
+
+.Card__heading {
+  text-align: center;
 }
 
 .Card__typeList {
