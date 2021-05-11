@@ -1,0 +1,14 @@
+.Card {
+  padding: 20px;
+  background: burlywood;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px black;
+}
+
+.Card__typeList {
+  list-style: decimal;
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
